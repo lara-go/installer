@@ -2,20 +2,20 @@
 
 It was made to help you start new LaraGo project as easy as possible.
 
-1. Download LaraGo Boilerplate in zip.
-1. Unpack it to the directory you need.
+1. Download [LaraGo Boilerplate](https://github.com/lara-go/boilerplate) in zip.
+1. Unpack it to the directory you provided (it should not exist).
 1. Update import paths.
 
 ## Installation
 
 ```bash
-$ go install https://github.com/lara-go/installer
+$ go install -a https://github.com/lara-go/installer
 ```
 
 ## Running
 
 ```bash
-$ larago install my/application/path
+$ $GOPATH/bin/installer install my/application/path
 ```
 
 Result will be:
