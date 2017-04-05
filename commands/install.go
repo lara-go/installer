@@ -17,6 +17,7 @@ import (
 
 const boilerplateZipURL = "https://github.com/lara-go/boilerplate/archive/master.zip"
 
+// TODO: CLEAN THE MESS!!!
 func installHelp(gopath string) {
 	fmt.Printf(`
   Generate a new project from the boilerplate in %s
