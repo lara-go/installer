@@ -27,7 +27,7 @@ Next steps:
   1. Install Glide tool (https://glide.sh)
   2. Install dependencies using Glide
 
-To check run:
+Check if everyting ok:
 
   $ go run cmd/app/main.go -r ./ env
 ```
