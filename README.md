@@ -9,7 +9,7 @@ It was made to help you start new LaraGo project as easy as possible.
 ## Installation
 
 ```bash
-go install -a https://github.com/lara-go/installer
+go get -u github.com/lara-go/installer
 ```
 
 ## Running
